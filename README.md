@@ -47,4 +47,4 @@ This process is not difficult, it's so easy.
 First you open Windows PowerShell and run commands one by one. But this must should be memories you will open two windows PowerShell. In first you run blockchain and this PowerShell will also for
 minning and in second PowerShell you run differents commands for different functions. First PowerShell will be main PowerShell. 
 
-					"COMPLETED"
+						"COMPLETED"
