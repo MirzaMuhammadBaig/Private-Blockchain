@@ -1,4 +1,4 @@
-							"CREATE YOUR OWN PRIVATE BLOCLCHAIN"
+						"CREATE YOUR OWN PRIVATE BLOCLCHAIN"
 
 First I make folders on local disk D
 like this D:\Blockchain\PrivateBlockchain
@@ -10,11 +10,11 @@ Then this (Successfully wrote genesis state) has print.
 Then I run "geth --datadir .\PrivateBlockchain\"
 My private Blockchain start successfully
 
-							"BLOCKCHAIN RUNING SUCCESSFULLY"
+						"BLOCKCHAIN RUNING SUCCESSFULLY"
 
 Then I stopped this "geth --datadir .\PrivateBlockchain\" and run "geth --datadir  .\PrivateBlockchain\ --nodiscover" for minning.
 
-							"MINNING RUNING SUCCESSFULLY"
+						"MINNING RUNING SUCCESSFULLY"
 
 After this I *open one more windows PowerShell* (but must should be memories your path those will be, where in chaindata folder
 (like this D:\blockchain\PrivateBlockchain\PrivateBlockchain\geth\chaindata) this path is mine and when you go in right path) you run "geth attach".
